@@ -1,0 +1,5 @@
+[INFO ] 2022-11-26 15:49:14.549 [main] LoggerDemo - for info only
+[FATAL] 2022-11-26 15:49:14.552 [main] LoggerDemo - fatal message
+[DEBUG] 2022-11-26 15:49:14.553 [main] LoggerDemo - for debug
+[ERROR] 2022-11-26 15:49:14.553 [main] LoggerDemo - error message
+[WARN ] 2022-11-26 15:49:14.553 [main] LoggerDemo - warning message
