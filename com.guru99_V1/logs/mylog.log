@@ -1,0 +1,370 @@
+[INFO ] 2022-12-21 19:23:31.540 [main] StepDefn - setup method executed
+[INFO ] 2022-12-21 19:37:27.664 [main] StepDefn - setup method executed
+[INFO ] 2022-12-21 19:37:29.927 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-21 19:37:33.341 [main] StepDefn - user opens url
+[INFO ] 2022-12-21 19:37:33.498 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-21 19:37:35.758 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-21 19:37:35.766 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-21 19:37:36.400 [main] StepDefn - user clicked on logout link
+[INFO ] 2022-12-21 19:37:37.411 [main] StepDefn - user accepted alert
+[INFO ] 2022-12-21 19:37:38.701 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-21 19:37:55.027 [main] StepDefn - user cloesd browser
+[INFO ] 2022-12-22 09:32:39.558 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 09:32:42.349 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 09:32:44.809 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 09:32:44.955 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 09:32:46.352 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 09:32:46.360 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:45:31.904 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:45:35.799 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:45:42.975 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:45:43.161 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:45:44.514 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:45:44.521 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:47:09.954 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:47:11.944 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:47:17.975 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:47:18.136 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:47:21.527 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:47:21.536 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:48:38.898 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:48:40.872 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:48:43.828 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:48:44.008 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:48:46.922 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:48:46.931 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:49:26.698 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:49:28.704 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:49:31.912 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:49:32.046 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:49:34.166 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:49:34.175 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:50:43.733 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:50:45.653 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:50:48.141 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:50:48.295 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:50:49.587 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:50:49.595 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:53:52.466 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:53:55.199 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:53:58.065 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:53:58.234 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:54:01.090 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:54:01.098 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:54:11.960 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:54:13.905 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:54:16.652 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:54:16.806 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:54:18.350 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:54:18.359 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:54:25.688 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:54:27.666 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:54:30.463 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:54:30.621 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:54:32.187 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:54:32.196 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:54:43.934 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:54:45.898 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:54:48.722 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:54:48.872 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:54:51.729 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:54:51.737 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:55:29.424 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:55:31.399 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:55:35.003 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:55:35.267 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:55:37.494 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:55:37.503 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:55:47.314 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:55:49.233 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:55:52.028 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:55:52.173 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:55:53.561 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:55:53.568 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:57:02.330 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:57:04.289 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:57:07.798 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:57:07.972 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:57:09.943 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:57:09.950 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:58:15.452 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:58:17.439 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:58:20.298 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:58:20.454 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:58:23.385 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:58:23.393 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 10:59:34.795 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 10:59:36.731 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 10:59:39.689 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 10:59:39.854 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 10:59:41.414 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 10:59:41.422 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:10:05.283 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 11:10:07.253 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 11:10:09.662 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 11:10:09.793 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 11:10:11.161 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 11:10:11.169 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:15:42.078 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 11:15:44.007 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 11:15:47.819 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 11:15:48.022 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 11:15:49.553 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 11:15:49.562 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:18:46.434 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 11:18:48.381 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 11:18:51.261 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 11:18:51.457 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 11:18:52.733 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 11:18:52.742 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:22:00.996 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 11:22:03.003 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 11:22:06.089 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 11:22:06.269 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 11:22:08.244 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 11:22:08.251 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:46:01.025 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 11:46:03.352 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 11:46:07.074 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 11:46:07.207 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 11:46:09.060 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 11:46:09.068 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:46:19.201 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 11:46:21.117 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 11:46:24.365 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 11:46:24.499 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 11:46:27.376 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 11:46:27.384 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:48:10.127 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 11:48:12.063 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 11:48:15.059 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 11:48:15.213 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 11:48:17.233 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 11:48:17.243 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:50:18.387 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 11:50:20.304 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 11:50:24.295 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 11:50:24.430 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 11:50:25.919 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 11:50:25.927 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:50:32.816 [main] StepDefn - user accepted alert
+[INFO ] 2022-12-22 11:50:32.829 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 11:50:33.056 [main] StepDefn - *********user cloesd browser************
+[INFO ] 2022-12-22 12:51:37.675 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 12:51:39.996 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 12:51:42.922 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 12:51:43.118 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 12:51:44.663 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 12:51:44.670 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 12:57:48.186 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 12:57:50.077 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 12:57:53.841 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 12:57:54.005 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 12:57:55.451 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 12:57:55.514 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:11:17.207 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:11:19.126 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:11:22.143 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:11:22.308 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:11:23.835 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:11:23.843 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:19:16.508 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:19:18.460 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:19:21.887 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:19:22.024 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:19:24.321 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:19:24.329 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:19:34.447 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:19:36.409 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:19:39.464 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:19:39.632 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:19:40.966 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:19:40.975 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:28:34.132 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:28:36.092 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:28:39.887 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:28:40.034 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:28:43.005 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:28:43.013 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:28:50.442 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:28:52.379 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:28:56.891 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:28:57.028 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:28:59.025 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:28:59.033 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:29:07.678 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:29:09.604 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:29:12.726 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:29:12.861 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:29:15.751 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:29:15.759 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:29:27.045 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:29:28.922 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:29:31.940 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:29:32.113 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:29:35.207 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:29:35.215 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:31:26.543 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:31:28.546 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:31:31.676 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:31:31.823 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:31:33.126 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:31:33.133 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:35:50.337 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:35:52.223 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:35:55.409 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:35:55.582 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:35:57.560 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:35:57.567 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:36:25.781 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:36:27.698 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:36:30.991 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:36:31.137 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:36:32.504 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:36:32.511 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:43:35.084 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:43:37.062 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:43:40.819 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:43:40.970 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:43:43.157 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:43:43.164 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:46:53.805 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:46:55.731 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:46:59.788 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:46:59.938 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:47:03.152 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:47:03.161 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:47:16.099 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:47:18.050 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:47:22.890 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:47:23.057 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:47:24.608 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:47:24.617 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:47:31.847 [main] StepDefn - user accepted alert
+[INFO ] 2022-12-22 13:47:32.682 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:47:48.947 [main] StepDefn - *********user cloesd browser************
+[INFO ] 2022-12-22 13:54:05.474 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:54:07.702 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:54:12.450 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:54:12.603 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:54:14.635 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:54:14.643 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 13:55:56.138 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 13:55:58.055 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 13:56:01.212 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 13:56:01.368 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 13:56:02.756 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 13:56:05.774 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:00:51.454 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 14:00:53.354 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 14:00:56.473 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 14:00:56.630 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 14:00:58.626 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 14:01:01.647 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:02:59.990 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 14:03:01.885 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 14:03:05.067 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 14:03:05.210 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 14:03:06.630 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 14:03:09.649 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:03:17.847 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:03:34.098 [main] StepDefn - *********user cloesd browser************
+[INFO ] 2022-12-22 14:12:39.290 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 14:12:41.215 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 14:12:46.970 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 14:12:47.194 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 14:12:48.971 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 14:12:51.992 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:16:18.821 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 14:16:20.902 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 14:16:26.593 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 14:16:26.753 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 14:16:28.397 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 14:16:31.417 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:17:56.924 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 14:17:59.204 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 14:18:02.331 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 14:18:02.527 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 14:18:06.099 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 14:18:09.109 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:18:17.730 [main] StepDefn - user accepted alert
+[INFO ] 2022-12-22 14:41:28.224 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 14:41:30.507 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 14:41:33.708 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 14:41:33.839 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 14:41:37.643 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 14:41:40.655 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:44:05.206 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 14:44:07.109 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 14:44:10.288 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 14:44:10.421 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 14:44:11.878 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 14:44:14.898 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 14:44:23.444 [main] StepDefn - user accepted alert
+[INFO ] 2022-12-22 14:44:25.113 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 15:31:09.525 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 15:31:11.934 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 15:31:17.141 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 15:31:17.314 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 15:31:19.268 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 15:31:22.289 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 15:42:12.841 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 15:42:14.815 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 15:42:17.996 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 15:42:18.157 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 15:42:21.514 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 15:42:24.526 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 15:43:25.766 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 15:43:27.745 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 15:43:30.895 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 15:43:31.067 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 15:43:33.152 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 15:43:36.164 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 15:45:51.767 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 15:45:53.665 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 15:45:56.730 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 15:45:56.893 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 15:45:58.419 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 15:46:01.433 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 15:48:02.392 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 15:48:04.344 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 15:48:07.530 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 15:48:07.711 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 15:48:09.340 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 15:48:12.353 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 15:51:49.541 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 15:51:51.480 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 15:51:56.324 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 15:51:56.479 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 15:51:58.083 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 15:52:01.108 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 15:55:12.995 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 15:55:14.901 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 15:55:17.970 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 15:55:18.164 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 15:55:20.363 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 15:55:23.374 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 15:57:09.946 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 15:57:11.915 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 15:57:15.202 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 15:57:15.371 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 15:57:16.903 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 15:57:19.924 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 16:00:04.484 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 16:00:06.379 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 16:00:10.052 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 16:00:10.213 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 16:00:11.577 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 16:00:14.591 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 16:04:06.373 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 16:04:08.366 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 16:04:12.801 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 16:04:12.991 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 16:04:14.330 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 16:04:17.346 [main] StepDefn - Page title is verified
+[INFO ] 2022-12-22 16:07:47.198 [main] StepDefn - setup method executed
+[INFO ] 2022-12-22 16:07:49.270 [main] StepDefn - user launched chrome Browser
+[INFO ] 2022-12-22 16:07:52.473 [main] StepDefn - user opens url
+[INFO ] 2022-12-22 16:07:52.605 [main] StepDefn - user entered userID & password
+[INFO ] 2022-12-22 16:07:54.486 [main] StepDefn - user clicked on login button
+[INFO ] 2022-12-22 16:07:57.509 [main] StepDefn - Page title is verified
