@@ -6,6 +6,7 @@
       <class name="TestCases.TC_indexPage">
         <methods>
           <include name="setup"/>
+          <include name="tearDown"/>
           <include name="verifyRegistrationAndLogin"/>
         </methods>
       </class> <!-- TestCases.TC_indexPage -->

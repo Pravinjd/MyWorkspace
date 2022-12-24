@@ -6,9 +6,11 @@ import org.testng.annotations.Test;
 import PageObjects.RegistrationSuccessPage;
 import PageObjects.RegisterationPage;
 import PageObjects.indexPage;
+import PageObjects.loginPage;
 
 public class TC_indexPage extends BaseClass {
 	
+	//TC_001: verify new user can create account successfully
 	
 	
 	@Test
@@ -29,7 +31,13 @@ public class TC_indexPage extends BaseClass {
 		log.info("clickOnMyAccountBtn");
 		indexpg.clickOnloginBtn();
 		Thread.sleep(1500);
-		indexpg.clickOnNewCustomerContinueBtn();
+		
+		
+		//*****************login page *******************
+		
+		loginPage loginpg = new loginPage(driver);
+		
+		loginpg.clickOnNewCustomerContinueBtn();
 		Thread.sleep(1500);
 
 		
@@ -37,31 +45,32 @@ public class TC_indexPage extends BaseClass {
 		//*******************************************************************
 		
 		RegisterationPage regpg= new RegisterationPage(driver);
+		
 		regpg.enterFirstName(generateEmailId());
-		Thread.sleep(1500);
+		//Thread.sleep(1500);
 		
 		regpg.enterLastName("Gupta");
-		Thread.sleep(1500);
+		//Thread.sleep(1500);
 		
 		regpg.enterEmail(generateEmailId() + "@gmail.com");
-		Thread.sleep(1500);
+		//Thread.sleep(1500);
 		
 		regpg.enterTelephone("1234567890");
-		Thread.sleep(1500);
+		//Thread.sleep(1500);
 
 		regpg.enterPassword("123456");
-		Thread.sleep(1500);
+		//Thread.sleep(1500);
 
 		
 		regpg.enterconfirmPassword("123456");
-		Thread.sleep(1500);
+		//Thread.sleep(1500);
 
 		
 		regpg.selectSubscribeRadioBtn("0");
-		Thread.sleep(1500);
+		//Thread.sleep(1500);
 		
 		regpg.clickOnPrivacyPolicy();
-		Thread.sleep(1500);
+		//Thread.sleep(1500);
 		
 		regpg.clickOnContinueBtn();
 		Thread.sleep(1500);

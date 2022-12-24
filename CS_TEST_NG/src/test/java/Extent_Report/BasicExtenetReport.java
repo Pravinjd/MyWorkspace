@@ -1,6 +1,7 @@
 package Extent_Report;
 
 import org.testng.Assert;
+import org.testng.ITestListener;
 import org.testng.ITestResult;
 import org.testng.SkipException;
 import org.testng.annotations.AfterMethod;
@@ -16,7 +17,7 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
-public class BasicExtenetReport {
+public class BasicExtenetReport implements ITestListener {
 
 	// create variables of following classes
 	ExtentSparkReporter htmlReporter;

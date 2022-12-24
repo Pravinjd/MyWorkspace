@@ -23,8 +23,7 @@ public class indexPage {
 	@FindBy (linkText="Login")
 	WebElement loginBtn;
 	
-	@FindBy (linkText="Continue")
-	WebElement newCustomerContinueBtn;
+	
 	
 	//action methods
 	
@@ -37,10 +36,7 @@ public class indexPage {
 		loginBtn.click();
 	}
 	
-	public void clickOnNewCustomerContinueBtn()
-	{
-		newCustomerContinueBtn.click();
-	}
+	
 	
 	
 }
