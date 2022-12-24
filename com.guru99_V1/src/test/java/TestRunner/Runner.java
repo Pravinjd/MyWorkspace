@@ -14,11 +14,8 @@ import io.cucumber.junit.CucumberOptions;
 		tags      = "@sanity"        ,
 		plugin    = {"pretty","html:target/cucumber-reports/Reports.html"}
 		
-		
-		
 	
 		)
-
 
 public class Runner {
 

@@ -1,0 +1,25 @@
+[INFO ] 2022-12-23 17:42:22.742 [main] z_inetBankingV1 - URL is openend
+[INFO ] 2022-12-23 17:42:22.925 [main] z_inetBankingV1 - entered username & password
+[INFO ] 2022-12-23 17:42:25.056 [main] z_inetBankingV1 - login test passed
+[INFO ] 2022-12-23 17:44:58.618 [main] z_inetBankingV1 - URL is openend
+[INFO ] 2022-12-23 17:44:58.770 [main] z_inetBankingV1 - entered username & password
+[INFO ] 2022-12-23 17:45:22.063 [main] z_inetBankingV1 - login test passed
+[INFO ] 2022-12-23 18:45:32.313 [main] z_inetBankingV1 - URL is openend
+[INFO ] 2022-12-23 18:45:32.477 [main] z_inetBankingV1 - entered username & password
+[INFO ] 2022-12-23 18:45:35.071 [main] z_inetBankingV1 - login test passed
+[INFO ] 2022-12-23 19:00:55.592 [main] z_inetBankingV1 - URL is openend
+[INFO ] 2022-12-23 19:00:55.788 [main] z_inetBankingV1 - entered username & password
+[INFO ] 2022-12-23 19:00:57.086 [main] z_inetBankingV1 - clicked on submit button
+[INFO ] 2022-12-23 19:00:57.095 [main] z_inetBankingV1 - login test passed
+[INFO ] 2022-12-23 19:01:47.388 [main] z_inetBankingV1 - URL is openend
+[INFO ] 2022-12-23 19:01:47.486 [main] z_inetBankingV1 - entered username & password
+[INFO ] 2022-12-23 19:01:49.270 [main] z_inetBankingV1 - clicked on submit button
+[INFO ] 2022-12-23 19:01:49.276 [main] z_inetBankingV1 - login test passed
+[INFO ] 2022-12-23 19:04:24.292 [main] z_inetBankingV1 - URL is openend
+[INFO ] 2022-12-23 19:04:24.409 [main] z_inetBankingV1 - entered username & password
+[INFO ] 2022-12-23 19:04:26.720 [main] z_inetBankingV1 - clicked on submit button
+[INFO ] 2022-12-23 19:04:26.727 [main] z_inetBankingV1 - login test passed
+[INFO ] 2022-12-23 19:13:03.203 [main] z_inetBankingV1 - URL is openend
+[INFO ] 2022-12-23 19:13:03.376 [main] z_inetBankingV1 - entered username & password
+[INFO ] 2022-12-23 19:13:05.648 [main] z_inetBankingV1 - clicked on submit button
+[INFO ] 2022-12-23 19:13:05.657 [main] z_inetBankingV1 - login test passed
