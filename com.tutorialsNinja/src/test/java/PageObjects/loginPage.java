@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class loginPage {
 
-WebDriver ldriver;
+	WebDriver ldriver;
 	
 	public loginPage(WebDriver rdriver)
 	{
@@ -44,7 +44,7 @@ WebDriver ldriver;
 		RegisteredUserPassword.sendKeys("12345");
 	}
 	
-	public void clickOnLoginButton()
+	public void clickOnLoginBtnforRegisteredUser()
 	{
 		LoginBtnforRegisteredUser.click();
 	}

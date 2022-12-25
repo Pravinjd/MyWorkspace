@@ -83,13 +83,16 @@ public class BaseClass {
 			driver = null;
 			break;
 		}
-		//maximize browser & implicit wait
+		//1.maximize browser & implicit wait
 		//driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
-		//logger
-
+		//2.logger to add log 
 		log = LogManager.getLogger("com.openCart");
+
+		//3.open url
+		driver.get(url);
+		//log.info("url is openend");
 	}
 
 	@AfterClass
