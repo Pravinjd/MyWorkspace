@@ -116,7 +116,7 @@ public class TC_001 extends BaseClass {
 		loginpg.enterReturningCustomerEmail("pravinjd@yahoo.com");
 		Thread.sleep(1000);
 
-		loginpg.enterReturningCustomerPassword(browser);
+		loginpg.enterReturningCustomerPassword("12345");
 		Thread.sleep(1000);
 
 		loginpg.clickOnLoginBtnforRegisteredUser();
