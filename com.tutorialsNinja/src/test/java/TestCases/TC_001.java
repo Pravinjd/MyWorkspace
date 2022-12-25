@@ -17,7 +17,7 @@ public class TC_001 extends BaseClass {
 	//TC_001: verify new user can create account successfully
 
 
-	@Test(enabled =false)
+	@Test(enabled =true)
 	public void verifyRegistrationAndLogin() throws InterruptedException
 	{
 		//1.browser & url  will launch from base class 
@@ -89,7 +89,7 @@ public class TC_001 extends BaseClass {
 
 		Assert.assertEquals(actualValidationMsg, "Your Account Has Been Created!");
 		
-		driver.close ();
+		RegSuccesspg.clickOnLogoutBtn();
 	}
 	
 
@@ -155,6 +155,8 @@ public class TC_001 extends BaseClass {
 			Assert.assertTrue(false);
 
 		}
+		
+		MyAccInfopg.clickOnLogoutBtn();
 		
 		
 		

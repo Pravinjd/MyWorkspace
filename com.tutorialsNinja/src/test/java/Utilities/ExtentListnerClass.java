@@ -4,15 +4,10 @@ import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import org.testng.Assert;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import org.testng.SkipException;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -76,7 +71,7 @@ public class ExtentListnerClass implements ITestListener  {
 		System.out.println("Name of test method failed :" +Result.getName() );
 
 		test = reports.createTest(Result.getName());  //to create entry in html report its mandatory
-		test.log(Status.FAIL, MarkupHelper.createLabel("Name of test case failed :"+ Result.getName() + " :FAILED", ExtentColor.RED));
+		test.log(Status.FAIL, MarkupHelper.createLabel("Name of test case failed :"+ Result.getName() , ExtentColor.RED));
 		//test.fail(result.getThrowable());
 
 		//to add screenshot in report
@@ -87,9 +82,9 @@ public class ExtentListnerClass implements ITestListener  {
 		//String ScreenshotPath1=System.getProperty("user.dir") + "\\Screenshots\\" + sdf.format(d) + Result.getName() + ".png";
 		String ScreenshotPath=".\\Screenshots\\" + sdf.format(d) + Result.getName() + ".png";
 
-		File screnshotFile =new File(ScreenshotPath);
+		File screenshotFile =new File(ScreenshotPath);
 
-		if(screnshotFile.exists())
+		if(screenshotFile.exists())
 		{
 			test.fail("Captured screenshot is below :" + test.addScreenCaptureFromPath(ScreenshotPath));
 		}
@@ -104,7 +99,7 @@ public class ExtentListnerClass implements ITestListener  {
 		System.out.println("Name of test method skipped :" +Result.getName() );
 
 		test = reports.createTest(Result.getName()); 
-		test.log(Status.SKIP, MarkupHelper.createLabel("Name of test case skipped :"+ Result.getName() + " :SKIPPED", ExtentColor.YELLOW));
+		test.log(Status.SKIP, MarkupHelper.createLabel("Name of test case skipped :"+ Result.getName() , ExtentColor.YELLOW));
 
 		
 	}
@@ -114,7 +109,7 @@ public class ExtentListnerClass implements ITestListener  {
 		System.out.println("Name of test method Passed :" +Result.getName() );
 
 		test = reports.createTest(Result.getName()); 
-		test.log(Status.PASS, MarkupHelper.createLabel("Name of test case Passed :"+ Result.getName() + " :PASSED", ExtentColor.GREEN));
+		test.log(Status.PASS, MarkupHelper.createLabel("Name of test case Passed :"+ Result.getName() , ExtentColor.GREEN));
 
 		
 	}
@@ -129,12 +124,5 @@ public class ExtentListnerClass implements ITestListener  {
 
 	}
 
-
-
-	@AfterTest
-	public void tearDown()
-	{
-		reports.flush();
-	}
 
 }

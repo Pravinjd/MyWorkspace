@@ -60,7 +60,6 @@ public class BaseClass {
 	@BeforeClass
 	public void setup()
 	{
-
 		// launch browser
 		switch (browser.toLowerCase()) 
 		{
@@ -89,6 +88,8 @@ public class BaseClass {
 
 		//2.logger to add log 
 		log = LogManager.getLogger("com.openCart");
+
+
 
 		//3.open url
 		driver.get(url);
