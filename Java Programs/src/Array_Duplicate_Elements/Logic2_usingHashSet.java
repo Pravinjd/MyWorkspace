@@ -11,7 +11,7 @@ public class Logic2_usingHashSet {
 		
 		String arr [] =  {"java","c","c++","python","Java","java","c++"};
 		
-		HashSet <String> langs=new HashSet();
+		HashSet <String> langs=new HashSet <String> ();
 		
 		
 		boolean flag=false;

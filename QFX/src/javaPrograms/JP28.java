@@ -1,12 +1,12 @@
-package Palindrome_Number;
+package javaPrograms;
 
 import java.util.Scanner;
 
-public class Palindrome_Number {
+public class JP28 {
 
 	public static void main(String[] args) {
-		//
-
+		//  Palindrome number
+		
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter any number: ");  //121
 		

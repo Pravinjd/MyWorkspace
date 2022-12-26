@@ -1,12 +1,13 @@
-package Palindrome_String;
+package stringPrgrams;
 
 import java.util.Scanner;
 
-public class Palindrome_String {
+public class SP27 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		//   Palindrome String
+	
+		
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter a String: "); //madam or mom dad
 
