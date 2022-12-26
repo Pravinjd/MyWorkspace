@@ -1,8 +1,10 @@
-package Array_Missing_Number;
+package ArrayPrograms;
 
-public class Array_Missing_Number {
+public class AP47 {
 
 	public static void main(String[] args) {
+		// find the missing element in the array
+		
 		
 		// Array should not have duplicates
 		// Array No need to be sorted order
@@ -31,6 +33,8 @@ public class Array_Missing_Number {
 		System.out.println("expected sum of array :" +sum2);
 		
 		System.out.println("missing number is :"+ (sum2-sum1));
-	}
+	
 
+	}
 }
+

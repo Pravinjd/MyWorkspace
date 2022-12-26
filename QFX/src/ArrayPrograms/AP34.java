@@ -1,6 +1,6 @@
 package ArrayPrograms;
 
-public class JP34 {
+public class AP34 {
 
 	public static void main(String[] args) {
 		// delete duplicates from Sorted Array using index

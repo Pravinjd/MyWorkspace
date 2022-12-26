@@ -1,6 +1,6 @@
 package ArrayPrograms;
 
-public class JP35 {
+public class AP35 {
 
 	public static void main(String[] args) {
 		// find the duplicate elements in the array using index

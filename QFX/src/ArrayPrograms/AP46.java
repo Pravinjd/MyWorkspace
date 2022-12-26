@@ -1,18 +1,17 @@
-package Array_Equal_or_not;
+package ArrayPrograms;
 
-import java.util.Arrays;
-
-public class logic2 {
+public class AP46 {
 
 	public static void main(String[] args) {
-		
+		//compare two arrays without using inbuilt methods
+
 		// using equals method
-		
+
 		int a[]= {1,2,3,4,5};
 		int b[]= {1,2,3,4,5};
-		
+
 		//first check if the lenght of both arrays are same or not
-		
+
 		boolean status=true;
 		if(a.length == b.length)
 		{
@@ -24,13 +23,13 @@ public class logic2 {
 					status=false;
 				}
 			}
-			
+
 		}
 		else
 		{
 			status=false;
 		}
-		
+
 		if(status==true)
 		{
 			System.out.println("Arrays are equal");
@@ -39,7 +38,7 @@ public class logic2 {
 		{
 			System.out.println("Arrays NOT equal");
 		}
-		
+
 	}
 
 }
