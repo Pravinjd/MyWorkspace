@@ -6,11 +6,11 @@ public class Count_occurance_of_char_in_String {
 		
 		String str= "java programming java oops";
 		
-		int ttlcount = str.length(); // total length before removing a 
+		int before = str.length(); // total length before removing a 
 		
-		int count=str.replace("a", "").length(); //total length after removing a
+		int after=str.replace("a", "").length(); //total length after removing a
 		
-		int finalcount=ttlcount -count ;
+		int finalcount=before - after ;
 		
 		System.out.println("no of occurances of a :" +finalcount);
 	}
