@@ -7,31 +7,33 @@ public class JP43 {
 	public static void main(String[] args) {
 		// reverse the given number
 		
-		Scanner scanner = new Scanner(System.in);
+//		Scanner scanner = new Scanner(System.in);
+//        
+//        System.out.println("Enter any digit number:");  //1122
+//        
+//         int orgnum = scanner.nextInt();
+		
+		int orgnum=1122;
         
-        System.out.println("Enter any digit number:");  //1122
+         int num = orgnum;
         
-         int orginalNumber = scanner.nextInt();
+         int rem;
         
-         int number = orginalNumber;
+         int revnum = 0;
         
-         int reminder;
-        
-         int reversedNumber = 0;
-        
-         while(number>0) {
+         while(num>0) {
                
-                reminder = number % 10;
+        	 rem = num % 10;
                
-                reversedNumber = reversedNumber * 10 + reminder;
+        	 revnum = revnum * 10 + rem;
                
-                number = number / 10;
+                num = num / 10;
                
         }
         
-        System.out.println("Reversed number is: " +reversedNumber);
+        System.out.println("Reversed number is: " +revnum);
         
-         scanner.close();
+         //scanner.close();
 
 	}
 

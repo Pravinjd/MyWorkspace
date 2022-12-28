@@ -7,26 +7,25 @@ public class AP76 {
 	public static void main(String[] args) {
 		// reverse the elements in the array
 		
-		  int[] ar = {5,1,2,3,4};
+		  int[] a = {5,4,3,2,1};
           
           int temp ;
           int start = 0;
-          int end = ar.length -1;
+          int end = a.length -1;
          
-          while(start < end) {
+          while(start < end) 
+          {           
+              temp = a[start];
              
-              temp = ar[start];
+              a[start] = a[end];
              
-              ar[start] = ar[end];
-             
-              ar[end] = temp;
+              a[end] = temp;
              
               start++;
-              end--;
-             
+              end--;           
           }
          
-          System.out.println("Array after reversing its elements is: "+Arrays.toString(ar));
+          System.out.println("Array after reversing its elements is: "+Arrays.toString(a));
 
 	}
 
@@ -34,4 +33,4 @@ public class AP76 {
 
 //Output:
 //
-//Array after reversing its elements is: [4, 3, 2, 1, 5]
+//Array after reversing its elements is: [1, 2, 3, 4, 5]

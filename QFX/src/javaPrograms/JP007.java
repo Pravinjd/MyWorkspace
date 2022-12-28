@@ -13,6 +13,8 @@ public class JP007 {
 		
 		int year = scanner.nextInt();
 		
+		scanner.close();
+		
 		boolean Leapyear = false;
 		
 		if(year%4==0)

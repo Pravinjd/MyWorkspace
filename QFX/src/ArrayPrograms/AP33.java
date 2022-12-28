@@ -8,7 +8,7 @@ public class AP33 {
 	public static void main(String[] args) {
 		// Remove duplicates from the array using hashset
 		
-		int a[]= {5,3,4,5,5,4,9,6,7,9};
+		int a[]= {1,1,2,2,3,3,4,4,5,5};
 		
 		HashSet <Integer> set=new HashSet <Integer> ();
 		

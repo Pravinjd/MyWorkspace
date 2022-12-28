@@ -1,4 +1,4 @@
-package Array_Duplicate_Elements;
+package Array_Duplicate_String_Elements;
 
 public class Array_Duplicate_Elements {
 

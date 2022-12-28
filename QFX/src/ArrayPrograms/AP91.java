@@ -9,9 +9,10 @@ public class AP91 {
 
 		int[] b = {5,4,3,2,1};
 
-		for(int i=0;i<a.length;i++) {
+		for(int i=0;i <a.length; i++) 
+		{
 
-			System.out.print(a[i]*b[i]+" ");
+			System.out.print(a[i] * b[i]  +" ");
 
 		}
 

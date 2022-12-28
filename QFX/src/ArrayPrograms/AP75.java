@@ -14,17 +14,17 @@ public class AP75 {
         
          int size = scanner.nextInt();
         
-         int[] ar = new int[size];
+         int[] a = new int[size];
         
          for(int i=0;i<size;i++) {
             
             System.out.println("Enter number");
             
-             ar[i] = scanner.nextInt();
+             a[i] = scanner.nextInt();
             
          }
         
-         System.out.println("Array after storing the elements inputed by User is: "+Arrays.toString(ar)); 
+         System.out.println("User's Array is : "+Arrays.toString(a)); 
         
          scanner.close();
 
@@ -46,4 +46,4 @@ public class AP75 {
 //4
 //Enter number
 //5
-//Array after storing the elements inputed by User is: [1, 2, 3, 4, 5]
+//User's Array is : [1, 2, 3, 4, 5]

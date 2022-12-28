@@ -1,12 +1,9 @@
 package javaPrograms;
 
-import java.util.Scanner;
-
 public class JP18 {
 
 	public static void main(String[] args) {
 		//   Swap two numbers (using 3rd variable )
-		//2+4+6+8+10= 30
 		
 		int a = 10;
 		int b =	20;

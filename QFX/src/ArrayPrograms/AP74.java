@@ -10,7 +10,7 @@ public class AP74 {
 		//  reverse an Array using Java Collections
 		
 
-        Integer[] a = {5,2,4,6,1,8};
+        Integer[] a = {5,4,3,2,1};
         
         List<Integer> list = Arrays.asList(a);
         
@@ -21,6 +21,4 @@ public class AP74 {
 
 }
 
-//Output:
-//
-//[8, 1, 6, 4, 2, 5]
+//Output: [1, 2, 3, 4, 5]

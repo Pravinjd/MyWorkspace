@@ -3,7 +3,7 @@ package javaPrograms;
 public class JP20 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Find Sum of all digits in the given number
 		
 		 int number = 45321;
          

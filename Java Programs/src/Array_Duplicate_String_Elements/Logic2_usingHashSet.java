@@ -1,4 +1,4 @@
-package Array_Duplicate_Elements;
+package Array_Duplicate_String_Elements;
 
 import java.util.HashSet;
 

@@ -15,6 +15,8 @@ public class AP85 {
          alist.add(4);
          alist.add(5);
          alist.add(6);
+         
+         System.out.println(alist);
         
         System.out.println("Number of the elements in the ArrayList is: "+alist.size());
 

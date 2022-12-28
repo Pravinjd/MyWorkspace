@@ -6,6 +6,7 @@ public class JP39 {
 
 	public static void main(String[] args) {
 		// count the number of even and odd digits in the given number
+		
 
 		Scanner scanner = new Scanner(System.in);
 

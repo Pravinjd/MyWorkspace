@@ -12,11 +12,11 @@ public class AP140 {
 //		where as parallelSort() works well in terms of large sized arrays.
 //		There is no difference, except the performance.
 		
-		  int[] ar = {9,3,1,2,6,5,4,8,7};
+		  int a [] = {9,3,1,2,6,5,4,8,7,10};
           
-          Arrays.sort(ar);
+          Arrays.sort(a);
           
-          System.out.println(Arrays.toString(ar));
+          System.out.println(Arrays.toString(a));
 	}
 
 }

@@ -5,10 +5,10 @@ import java.util.Arrays;
 public class AP90 {
 
 	public static void main(String[] args) {
-		//  swap first and last elements of the Arra
+		//  swap first and last elements of the Array
 		
-		  int[] a = {1,2,3,4,5};
-          
+		  int[] a = {1,2,2,2,5};
+		  
           int temp ;
          
           int size = a.length ;
@@ -24,6 +24,5 @@ public class AP90 {
 
 }
 
-//Output:
-//
-//[5, 2, 3, 4, 1]
+//Output: [5, 2, 2, 2, 1]
+

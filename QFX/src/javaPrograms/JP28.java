@@ -1,19 +1,18 @@
 package javaPrograms;
 
-import java.util.Scanner;
-
 public class JP28 {
 
 	public static void main(String[] args) {
 		//  Palindrome number
 		
-		Scanner s = new Scanner(System.in);
-		System.out.println("Enter any number: ");  //121
+//		Scanner scanner = new Scanner(System.in);
+//		System.out.println("Enter any number: ");  //121
+//		
+//		int num = scanner.nextInt();
 		
-		int num = s.nextInt();
-
+		int num = 121;
+		
 		int orgnum = num;
-
 		int revnum = 0;
 
 		while (num != 0) 
@@ -34,7 +33,8 @@ public class JP28 {
 			System.out.println( orgnum + " it is NOT a Palindrome number: " + revnum );
 
 		}
-
+		
+		//scanner.close();
 	}
 
 }

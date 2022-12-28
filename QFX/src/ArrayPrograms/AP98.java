@@ -20,19 +20,18 @@ public class AP98 {
 
 		boolean isFound = false;
 
-		for(int i=0;i<a.length;i++) {
-
-			if(num ==a[i]) {
-
+		for(int i=0;i<a.length;i++) 
+		{
+			if(num ==a[i]) 
+			{
 				System.out.println("The first occurance of given number "+a[i]+" in the array is available at index "+ i);
 				isFound = true;
 				break;
-
 			}
-
 		}
 
-		if(!isFound) {
+		if(!isFound) 
+		{
 
 			System.out.println("The given number is not avialble in the array");
 		}
@@ -41,7 +40,6 @@ public class AP98 {
 }
 
 //Output:
-//
 //Enter any number:
 //5
 //The first occurrence of given number 5 in the array is available at index 2

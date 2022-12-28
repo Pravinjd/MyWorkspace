@@ -1,7 +1,5 @@
 package javaPrograms;
 
-import java.util.Scanner;
-
 public class JP16 {
 
 	public static void main(String[] args) {

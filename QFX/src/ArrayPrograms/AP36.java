@@ -11,15 +11,12 @@ public class AP36 {
 
 		HashSet<Integer> hset = new HashSet<Integer>();
 
-		for(int i=0;i<a.length;i++) { 
-
-			if(hset.add(a[i])==false) {
-
+		for(int i=0;i<a.length;i++) 
+		{ 
+			if(hset.add(a[i])==false) 
+			{
 				System.out.println(a[i]+" is duplicated");
-
 			}
-
-
 		}
 	}
 

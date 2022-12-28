@@ -10,10 +10,10 @@ public class AP142 {
 		
 		 ArrayList<Integer> alist = new ArrayList<Integer>();
          
-         alist.add(9);
-         alist.add(5);
+         alist.add(4);
          alist.add(1);
          alist.add(3);
+         alist.add(2);
         
         Collections.sort(alist);
         
@@ -28,6 +28,7 @@ public class AP142 {
 }
 
 //Output:
-//
-//[1, 3, 5, 9]
-//[9, 5, 3, 1]
+
+//[1, 2, 3, 4]
+//[4, 3, 2, 1]
+
