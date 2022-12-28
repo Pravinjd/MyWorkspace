@@ -10,7 +10,7 @@ public class SP22 {
 		String str = Integer.toString(a);
 
 		System.out.println(str);
-		System.out.println( str.length() );
+		//System.out.println( str.length() );
 
 		
 	}

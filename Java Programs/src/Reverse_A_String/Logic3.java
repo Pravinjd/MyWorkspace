@@ -4,7 +4,7 @@ public class Logic3 {
 
 	public static void main(String[] args) {
 		
-		// 1.using StrinBuffer class
+		// 3.using StrinBuffer class
 		
 		String str= "navap";
 		

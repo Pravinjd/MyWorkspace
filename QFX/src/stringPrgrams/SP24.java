@@ -7,7 +7,7 @@ public class SP24 {
 		
 		String str ="Hi My id is @#$% 12345";
 		
-		String s=str.toLowerCase();
+		String str2=str.toLowerCase();
 		
 		int vowels=0;
 		int consonenets=0;
@@ -16,9 +16,9 @@ public class SP24 {
 		int spaces=0;
 		int spclchar=0;
 		
-		for(int i=0; i<s.length(); i++)
+		for(int i=0; i<str2.length(); i++)
 		{
-			char ch = s.charAt(i);
+			char ch = str2.charAt(i);
 			
 			if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u')
 			{

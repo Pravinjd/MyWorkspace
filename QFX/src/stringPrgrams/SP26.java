@@ -7,16 +7,16 @@ public class SP26 {
 		
 		String str="pravin jadhav";
 		
-		String revstr="";
+		String rev="";
 		
-		char [] ch =str.toCharArray();
+		char [] a =str.toCharArray();
 		
-		for(int i=ch.length-1; i >= 0; i--)
+		for(int i=a.length-1; i >= 0; i--)
 		{
-			revstr = revstr + ch[i];
+			rev = rev + a[i];
  		}
 		
-		System.out.println(revstr);
+		System.out.println(rev);
 	}
 
 }

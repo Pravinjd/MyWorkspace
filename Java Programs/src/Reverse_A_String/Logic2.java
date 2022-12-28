@@ -6,7 +6,7 @@ public class Logic2 {
 		
 		// 2.using character array
 		
-		String str= "navap`";
+		String str= "pavan jadhav";
 		String rev="";
 		
 		//store all string characters into single array ie. char [] a 
@@ -20,7 +20,7 @@ public class Logic2 {
 		
 		
 		
-		System.out.println("Revresed string:" +rev);
+		System.out.println("Revresed string :" +rev);
 
 	}
 

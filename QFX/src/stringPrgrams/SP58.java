@@ -1,21 +1,21 @@
 package stringPrgrams;
 
-import java.util.Scanner;
-
 public class SP58 {
 
 	public static void main(String[] args) {
 		// find the ascii value of the given character
 		
-		Scanner scanner = new Scanner(System.in);
+//		Scanner scanner = new Scanner(System.in);
+//        
+//        System.out.println("Enter any character:"); 
         
-        System.out.println("Enter any character:"); 
-        
-         char c = scanner.nextLine().charAt(0);
+//         char c = scanner.nextLine().charAt(0);
+		
+		char c = 'M';
         
         System.out.println("ASCII value of the given character is: "+(int)c);
         
-         scanner.close();
+         //scanner.close();
 	}
 }
 //Output:
