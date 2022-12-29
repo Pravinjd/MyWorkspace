@@ -14,9 +14,9 @@ public class SP138 {
           
           SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MMM-dd");
           
-          Date date = sdf.parse(str);
+          Date d = sdf.parse(str);
           
-          System.out.println(date);
+          System.out.println(d);
 
 	}
 

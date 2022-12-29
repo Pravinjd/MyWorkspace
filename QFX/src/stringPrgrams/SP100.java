@@ -8,11 +8,12 @@ public class SP100 {
 	public static void main(String[] args) {
 		//  remove the duplicate charaters in the given String
 		
-		 String str = "coconut";
+		 String str = "Ramoo Shoo Ganoo";
          
          Set<Character> set = new LinkedHashSet<Character>();
          
-          for(int i=0;i <str.length();i++) {
+          for(int i=0;i <str.length();i++) 
+          {
                 
                  set.add(str.charAt(i));
                 
@@ -20,7 +21,8 @@ public class SP100 {
          
          StringBuffer sb = new StringBuffer();
          
-          for(Character c : set) {
+          for(Character c : set) 
+          {
                 
              sb.append(c);
                 
@@ -34,4 +36,4 @@ public class SP100 {
 
 //Output:
 //
-//conut
+//Ram Sham Gan

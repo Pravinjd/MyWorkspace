@@ -7,29 +7,30 @@ public class SP104 {
 		
 		String str = "pavan123";
         
-        char[] ca = str.toCharArray();
+        char[] a = str.toCharArray();
        
-        int size = ca.length;
+        int size = a.length;
        
         int n = 3;
        
-        for(int j=1;j<=n;j++) {
+        for(int j=1; j<=n; j++) 
+        {
        
-               char last = ca[size-1]; 
+               char last = a[size-1]; 
               
-               for(int i =size-1;i>0;i--) { 
-                    
-                     ca[i] = ca[i-1];
-                    
-              }
+               for(int i =size-1; i>0; i--) 
+               {                    
+                     a[i] = a[i-1];                    
+               }
               
-               ca[0] = last;
+               a[0] = last;      
        
-       }
+        }
        
        StringBuffer sb = new StringBuffer();
        
-        for(char c : ca) {
+        for(char c : a) 
+        {
               
           sb.append(c); 
               

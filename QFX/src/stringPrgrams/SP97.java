@@ -1,23 +1,21 @@
 package stringPrgrams;
 
-import java.util.Scanner;
-
 public class SP97 {
 
 	public static void main(String[] args) {
 		// count number of words in a String
 		
-		Scanner scanner = new Scanner(System.in);
+//		Scanner scanner = new Scanner(System.in);       
+//        System.out.println("Enter any Statement");        
+//        String statement = scanner.nextLine();
+//        scanner.close();
+		
+		String str = "pravin sambhaji jadhav"; 
         
-        System.out.println("Enter any Statement");
+        String[] str2 = str.split(" ");
         
-        String statement = scanner.nextLine();
+        System.out.println("The number of words in the given statement is: "+str2.length);
         
-        String[] str = statement.split(" ");
-        
-        System.out.println("The number of words in the given statement is: "+str.length);
-        
-         scanner.close();
 	}
 
 }
@@ -25,5 +23,5 @@ public class SP97 {
 //Output:
 //
 //Enter any Statement
-//This is a first statement.
-//The number of words in the given statement is: 5
+//pravin sambhaji jadhav
+//The number of words in the given statement is: 3

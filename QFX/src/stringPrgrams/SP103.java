@@ -7,23 +7,24 @@ public class SP103 {
 		
 		   String str = "pavan1";
            
-           char[] ca = str.toCharArray(); 
-              
-           int size = ca.length;
-       
-           char last = ca[size-1]; 
-                     
-           for(int i=size-1;i>0;i--) { 
+           char[] a = str.toCharArray(); 
                            
-               ca[i] = ca[i-1];
+           int size = a.length;
+           
+           char last = a[size-1]; 
+                            
+           for(int i=size-1; i>0; i--) 
+           { 
+                           
+               a[i] = a[i-1];
                            
            }
                      
-           ca[0] = last;
+           a[0] = last;
                
            StringBuffer sb = new StringBuffer();
               
-           for(char c : ca) {
+           for(char c : a) {
                      
               sb.append(c);   
                      
