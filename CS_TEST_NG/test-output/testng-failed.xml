@@ -3,15 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Extent_Report.BasicExtenetReport">
+      <class name="orange.Orange">
         <methods>
-          <include name="VerifyEmail"/>
-          <include name="VerifyTitle"/>
-          <include name="getTestResult"/>
-          <include name="tearDown"/>
-          <include name="startReport"/>
+          <include name="login"/>
         </methods>
-      </class> <!-- Extent_Report.BasicExtenetReport -->
+      </class> <!-- orange.Orange -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
