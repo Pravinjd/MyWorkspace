@@ -81,7 +81,7 @@ public class PriorityQueue {
 		
 		System.out.println();
 		//using iterator 
-		Iterator it = language.keySet().iterator();
+		Iterator it = language.values().iterator();
 		
 		while (it.hasNext() )
 		{
